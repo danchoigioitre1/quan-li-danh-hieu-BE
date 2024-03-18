@@ -1,0 +1,15 @@
+D:\Misa.ASP.NET\WebApplication1\MISA.FRESHERWEB032023.DEMO.Repository\obj\Debug\net6.0\MISA.FRESHERWEB032023.DL.csproj.AssemblyReference.cache
+D:\Misa.ASP.NET\WebApplication1\MISA.FRESHERWEB032023.DEMO.Repository\obj\Debug\net6.0\MISA.FRESHERWEB032023.DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Misa.ASP.NET\WebApplication1\MISA.FRESHERWEB032023.DEMO.Repository\obj\Debug\net6.0\MISA.FRESHERWEB032023.DL.AssemblyInfoInputs.cache
+D:\Misa.ASP.NET\WebApplication1\MISA.FRESHERWEB032023.DEMO.Repository\obj\Debug\net6.0\MISA.FRESHERWEB032023.DL.AssemblyInfo.cs
+D:\Misa.ASP.NET\WebApplication1\MISA.FRESHERWEB032023.DEMO.Repository\obj\Debug\net6.0\MISA.FRESHERWEB032023.DL.csproj.CoreCompileInputs.cache
+D:\Misa.ASP.NET\WebApplication1\MISA.FRESHERWEB032023.DEMO.Repository\bin\Debug\net6.0\MISA.FRESHERWEB032023.DL.deps.json
+D:\Misa.ASP.NET\WebApplication1\MISA.FRESHERWEB032023.DEMO.Repository\bin\Debug\net6.0\MISA.FRESHERWEB032023.DL.dll
+D:\Misa.ASP.NET\WebApplication1\MISA.FRESHERWEB032023.DEMO.Repository\bin\Debug\net6.0\MISA.FRESHERWEB032023.DL.pdb
+D:\Misa.ASP.NET\WebApplication1\MISA.FRESHERWEB032023.DEMO.Repository\bin\Debug\net6.0\MISA.FRESHER032023.COMMON.dll
+D:\Misa.ASP.NET\WebApplication1\MISA.FRESHERWEB032023.DEMO.Repository\bin\Debug\net6.0\MISA.FRESHER032023.COMMON.pdb
+D:\Misa.ASP.NET\WebApplication1\MISA.FRESHERWEB032023.DEMO.Repository\obj\Debug\net6.0\MISA.FRESHERWEB032023.DL.csproj.CopyComplete
+D:\Misa.ASP.NET\WebApplication1\MISA.FRESHERWEB032023.DEMO.Repository\obj\Debug\net6.0\MISA.FRESHERWEB032023.DL.dll
+D:\Misa.ASP.NET\WebApplication1\MISA.FRESHERWEB032023.DEMO.Repository\obj\Debug\net6.0\refint\MISA.FRESHERWEB032023.DL.dll
+D:\Misa.ASP.NET\WebApplication1\MISA.FRESHERWEB032023.DEMO.Repository\obj\Debug\net6.0\MISA.FRESHERWEB032023.DL.pdb
+D:\Misa.ASP.NET\WebApplication1\MISA.FRESHERWEB032023.DEMO.Repository\obj\Debug\net6.0\ref\MISA.FRESHERWEB032023.DL.dll
